@@ -9,11 +9,8 @@ I have worked on analyzing a dataset of over 20,000 sales records from an Amazon
 
 The project also focuses on data cleaning, handling null values, and solving real-world business problems using structured queries.
 
-An ERD diagram is included to visually represent the database schema and relationships between tables.
-
 ---
 
-![ERD Scratch](https://github.com/najirh/amazon_usa_project5/blob/main/erd2.png)
 
 ## **Database Setup & Design**
 
@@ -719,10 +716,5 @@ call add_sales
 );
 
 ---
-
----
-
-### **Entity Relationship Diagram (ERD)**
-![ERD](https://github.com/najirh/amazon_usa_project5/blob/main/erd.png)
 
 ---
